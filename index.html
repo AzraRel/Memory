@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" href="#"/>
+    <title>Memory Deluxe</title>
+    <link rel="stylesheet" href="./assets/css/styles.css"/>
+    
+    <script src="./assets/js/timer.js"></script>
+    <script src="./assets/js/storage.js"></script>
+    <script src="./assets/js/cards.js"></script>
+    <script src="./assets/js/dom.js"></script>
+    <script src="./assets/js/deck.js"></script>
+    <script src="./assets/js/index.js" defer></script>
+  </head>
+  <body>
+    <main>
+      <article class="center">
+        <div class="border">
+          <h1>Memory</h1>
+          <div id="menu">
+            <div>
+              <button id="easyBtn">easy</button>
+              <button id="middleBtn">middle</button>
+              <button id="hardBtn">hard</button>
+            </div>
+            <span id="timer"></span>
+          </div>
+        </div>
+  
+        <div id="playfield" class="border center playf">
+        </div>
+
+        <div id="scores" class="border">
+          <div id="highscore">Highscore: 0</div>
+          <div id="avgTime">avgTime: 0m0s</div>
+          <div id="avgClicks">avgClicks: 0</div>
+        </div>
+      </article>
+    </main>
+  </body>
+</html>

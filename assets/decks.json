@@ -1,0 +1,25 @@
+
+[
+  {
+    "name": "Star Wars",
+    "cover": "./assets/images/sw/cover.png",
+    "cards": ["./assets/images/sw/sw_01.png", "./assets/images/sw/sw_02.png", "./assets/images/sw/sw_03.png", "./assets/images/sw/sw_04.png", "./assets/images/sw/sw_05.png",  "./assets/images/sw/sw_06.png",   "./assets/images/sw/sw_07.png",  "./assets/images/sw/sw_08.png",  "./assets/images/sw/sw_09.png",  "./assets/images/sw/sw_10.png",  "./assets/images/sw/sw_11.png",  "./assets/images/sw/sw_12.png"]
+  },
+  {
+    "name": "Marvel",
+    "cover": "./assets/images/marvel/cover.png",
+    "cards": ["./assets/images/marvel/marvel_01.png", "./assets/images/marvel/marvel_02.png", "./assets/images/marvel/marvel_03.png", "./assets/images/marvel/marvel_04.png", "./assets/images/marvel/marvel_05.png",  "./assets/images/marvel/marvel_06.png",   "./assets/images/marvel/marvel_07.png",  "./assets/images/marvel/marvel_08.png",  "./assets/images/marvel/marvel_09.png",  "./assets/images/marvel/marvel_10.png",  "./assets/images/marvel/marvel_11.png",  "./assets/images/marvel/marvel_12.png"]
+  },
+  {
+    "name": "DC",
+    "cover": "./assets/images/dc/cover.png",
+    "cards": ["./assets/images/dc/dc_01.png", "./assets/images/dc/dc_02.png", "./assets/images/dc/dc_03.png", "./assets/images/dc/dc_04.png", "./assets/images/dc/dc_05.png",  "./assets/images/dc/dc_06.png",   "./assets/images/dc/dc_07.png",  "./assets/images/dc/dc_08.png",  "./assets/images/dc/dc_09.png",  "./assets/images/dc/dc_10.png",  "./assets/images/dc/dc_11.png",  "./assets/images/dc/dc_12.png"]
+  },
+  {
+    "name": "Cinema",
+    "cover": "./assets/images/cinema/cover.png",
+    "cards": ["./assets/images/cinema/cinema_01.png", "./assets/images/cinema/cinema_02.png", "./assets/images/cinema/cinema_03.png", "./assets/images/cinema/cinema_04.png", "./assets/images/cinema/cinema_05.png",  "./assets/images/cinema/cinema_06.png",   "./assets/images/cinema/cinema_07.png",  "./assets/images/cinema/cinema_08.png",  "./assets/images/cinema/cinema_09.png",  "./assets/images/cinema/cinema_10.png",  "./assets/images/cinema/cinema_11.png",  "./assets/images/cinema/cinema_12.png"]
+  }
+]
+
+
